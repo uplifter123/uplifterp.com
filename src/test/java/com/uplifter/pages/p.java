@@ -9,5 +9,10 @@ public class p {
         int g = 0;
 
         System.out.println("jkbdsjbfdjsab");
+        System.out.println("kjbdövbbv");
+
+
+
+
     }
 }
