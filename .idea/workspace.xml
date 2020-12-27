@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13aa470-b46f-4adc-8b1f-906ccccbe292" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/uplifter/pages/p.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/uplifter/pages/p.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +73,26 @@
       <recent name="$PROJECT_DIR$/src/test/java/com" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uplifter.pages.p" />
+      <module name="uplifterp.com" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uplifter.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.p" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,6 +150,10 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="355" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.734@0.23.1280.734" timestamp="1608974668179" />
+    <state x="473" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609075589280">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="473" y="298" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.734@0.23.1280.734" timestamp="1609075589280" />
     <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1609071747854">
       <screen x="0" y="23" width="1280" height="734" />
     </state>
@@ -136,6 +162,14 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="128" y="85" width="1024" height="587" key="DiffContextDialog/0.23.1280.734@0.23.1280.734" timestamp="1609071743943" />
+    <state x="703" y="205" key="MultipleFileMergeDialog" timestamp="1609072230055">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="703" y="205" key="MultipleFileMergeDialog/0.23.1280.734@0.23.1280.734" timestamp="1609072230055" />
+    <state x="141" y="29" key="SettingsEditor" timestamp="1609075560950">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="141" y="29" key="SettingsEditor/0.23.1280.734@0.23.1280.734" timestamp="1609075560950" />
     <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1608976634557">
       <screen x="0" y="23" width="1280" height="734" />
     </state>
@@ -148,19 +182,5 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="17" y="91" key="new project wizard/0.23.1280.734@0.23.1280.734" timestamp="1608981531065" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/uplifter/pages/p.java</url>
-          <line>4</line>
-          <properties class="com.uplifter.pages.p" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
